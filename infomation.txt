@@ -1,0 +1,9 @@
+admin 
+
+id: bybas
+password: 12345
+
+costumer
+
+id:costumer
+password:12345
